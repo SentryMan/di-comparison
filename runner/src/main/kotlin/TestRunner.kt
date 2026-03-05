@@ -12,6 +12,7 @@ import kotlin.time.Duration.Companion.seconds
 
 val projects = listOf(
     "springboot-index",
+    "avaje-inject",
     "baseline",
     "bootique",
     "cayennedi",

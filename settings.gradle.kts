@@ -2,6 +2,9 @@ include("runner")
 
 include("jvm")
 
+include("avaje-inject")
+include("avaje-inject-deep")
+
 include("baseline")
 include("baseline-deep")
 

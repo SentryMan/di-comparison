@@ -12,6 +12,6 @@ repositories {
 }
 
 dependencies {
-    implementation("io.avaje:avaje-inject:12.5-RC1"")
-    annotationProcessor("io.avaje:avaje-inject-generator:12.5-RC1"")
+    implementation("io.avaje:avaje-inject:12.5-RC1")
+    annotationProcessor("io.avaje:avaje-inject-generator:12.5-RC1")
 }
